@@ -1,0 +1,4 @@
+ArduinoIDEのsampleから見れるFTM_Initiator/Responderを改造したもの
+
+macアドレスとチャンネルをもとに順次リクエストをかける
+(Initiatorのファイルに記載)
